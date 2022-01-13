@@ -237,12 +237,13 @@ For details $->$ arXiv:1101.2851 [q-bio.QM]
 
 ## Natural Language Processing
 
-- Use of probabilistic model like **Topic Model**, **Word Embeddings** and **Transformers** in order to:  
+- Use of models like **Topic Model**, **Word Embeddings** and **Transformers** in order to:  
 
     + Select most informative documents in a corpus  
     + Detect relevant differencies between documents
     + Resolve the disambiguation
-    + Perform a classification/partitioning of document sets based on their content  
+    + Perform a classification/partitioning of document sets based on their content
+    + Evaluate sentiment polarity and emotions
     
 - Have a relatively good computation performance  
 
