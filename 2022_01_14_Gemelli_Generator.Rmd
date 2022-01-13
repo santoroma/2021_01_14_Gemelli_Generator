@@ -3,10 +3,10 @@ title: "Mario Santoro Research Lines: Past, Present and Future"
 author: |
   |
   | <a href="https://github.com/santoroma/">Mario Santoro</a></small>
-  | <small>Presentation for the interview of the CNR's concourse 366.64 - Prot. AMMCEN n. 0053431</small>
+  | <small>Presentation at Gemelli generator - 2022-01-14</small>
 output:
   revealjs::revealjs_presentation:
-    template: CNR_research_lines_Template.html
+    template: 2022_01_14_Gemelli_Generator_Template.html
     incremental: false
     self_contained: false
     reveal_plugins: ["notes", "zoom", "menu"]
@@ -105,7 +105,7 @@ For details $->$ arXiv:1101.2851 [q-bio.QM]
 </small>
 
 
-## Data Emission Estimation and Mortatility in the Ciampino Municipality and sourrounding (2006-2007) {data-background="img/copertina.jpg" data-background-size="17%" data-background-position="left"}
+## Data Emission Estimation and Mortatility in the Ciampino Municipality and sourrounding (2006-2007) {data-background="img/copertina.jpg" data-background-size="17%" data-background-position="0% 0%"}
 
 <small>
   
@@ -120,6 +120,7 @@ For details $->$ arXiv:1101.2851 [q-bio.QM]
     +  Mortality in Ciampino Municipality and sourroundings from 1987 to 2002 
     +  Preventing the lack of specific data we defined the Standardized Mortality Ratio $SMR^i_{tjx}$  for the cause $i$, in an interval of time $t$, for the gender $j$, for the class interval $x$ 
     + $SMR^i_{tjx} = \frac{D^i_{tjx}}{m_{tjx}*P^i_{tjx}}$  where $D$ is the death rate (i.e. in Ciampino municipality), $m$ the 'aspected' mortality rate, i.e. in Italy, and $P$ the population (i.e. in Ciampino)
+
 <br>
 </small>
 
@@ -136,6 +137,7 @@ For details $->$ arXiv:1101.2851 [q-bio.QM]
 - Inside the big compartments of just-cannabis users and multiple-drug users three users subpopulation: **occasional**, **regular**, **intensive**
 
 - Compartments for health care/assisted persons together with a constant source (susceptible) are added
+
 ![](img/Drug_Users_EQN.png)  
 </small>
 </div>
@@ -148,21 +150,21 @@ For details $->$ arXiv:1101.2851 [q-bio.QM]
 ## <span style="background-color:rgba(0,0,0,0.9)">Data Scientist at Center for Molecular Allergology (CAM) (2009-2012 still active low-effort collaboration) </span> {data-background="img/Interall.png" data-background-size="contain" data-background-repeat="no-repeat"}
 
 <small>
-  
- - <span style="background-color:rgba(0,0,0,0.9)">Data from intensive clinical routine ($~10$K test/year, each test with more tha $100$ molecule)</span>  
-   
- - <span style="background-color:rgba(0,0,0,0.9)"> A brand new test in allergology $->$ definition of appropriate statistical analisys and new (in allergology) paradigms of visulization </span>
+
+ - <span style="background-color:rgba(0,0,0,0.9)">Data from intensive clinical routine ($~10$K test/year, each test with more tha $100$ molecule)</span>
+ 
+ - <span style="background-color:rgba(0,0,0,0.9)"> A brand new test in allergology $->$ definition of appropriate statistical analisys and new (in allergology) paradigms of visualization </span>
   
     + <span style="background-color:rgba(0,0,0,0.9)"> Implementation of cluster analisys: Hierarchical and not using euclidean and binary dissimilarity measures; cluster dendrograms and correlation-trees </span>  
       
     + <span style="background-color:rgba(0,0,0,0.9)"> Graphical calculation of Venn's Diagrams for showing cross-positivity to up to 4 allergene, Circular highly customizable barplot </span>  
-      
     + <span style="background-color:rgba(0,0,0,0.9)"> Spatial statistics on sensitivy to various allergens (Allergome.org)</span> 
-      
     + <span style="background-color:rgba(0,0,0,0.9)"> Implementation of an allergy risk index using profile of allergic sensitization and a database of food ingredient for allergenes diffusion (AllergomeConsumer ifarai.org)</span>
-      
-    + <span style="background-color:rgba(0,0,0,0.9)"> Hard coding effort with R, MySql and PHP for Data Cleaning/Preprocessing, Analysis and Visulization</span>   
+    + <span style="background-color:rgba(0,0,0,0.9)"> Hard coding effort with R, MySql and PHP for Data Cleaning/Preprocessing, Analysis and Visulization</span>
+    + <span style="background-color:rgba(0,0,0,0.9)"> Recently, Advisor for a Master Thesys in Statistics</span>  
+
 </small>
+
 
 ## <span style="background-color:rgba(0,0,0,0.9)">Data Scientist at Center for Molecular Allergology (CAM) (2009-2012) </span> {data-background="img/Interall.png" data-background-size="contain" data-background-repeat="no-repeat"}
 
@@ -179,6 +181,8 @@ For details $->$ arXiv:1101.2851 [q-bio.QM]
     + <span style="background-color:rgba(0,0,0,0.9)"> Molecular Immunology, 2015, Vol. 66, 2, 154-163 DOI:10.1016/j.molimm.2015.02.025</span>
     + <span style="background-color:rgba(0,0,0,0.9)"> Journal of Agricultural and Food Chemistry, 2015, Vol. 63, 29, 6567-6576 DOI:10.1021/acs.jafc.5b02159</span>
 
+    + <span style="background-color:rgba(0,0,0,0.9)"> GRASPA 2019 Conference, Pescara, 15-16 July 2019</span>
+
 </small>
 
 ## <span style="background-color:rgba(0,0,0,0.7)"> Tecnology Translator at SMII (Mathematical Desk for the Italian Industry ) (2013-2014) </span> {data-background="img/SMII.png" data-background-size="contain" data-background-repeat="no-repeat"}
@@ -192,6 +196,8 @@ For details $->$ arXiv:1101.2851 [q-bio.QM]
 - <span style="background-color:rgba(0,0,0,0.7)"> Creation of the web site, various slides and presentations, implementation of the Customer Relationship Database, reports and statitics of the project activities </span>  
 
 - <span style="background-color:rgba(0,0,0,0.7)"> Over 50 personal meeting with italian firms with 3 signed collaborations </span>   
+
+- <span style="background-color:rgba(0,0,0,0.7)"> On the Italian network of Industrial Mathematics and its future developments: Sportello Matematico per l’industria italiana. European Consortium for Mathematics in Industry, 173-178 </span>  
 
 </small>
 
@@ -227,11 +233,11 @@ For details $->$ arXiv:1101.2851 [q-bio.QM]
 ![](img/CVA.png)
 </div> 
 
-# <span style="background-color:rgba(0,0,0,0.5)"> The Present (2016-2018) </span>  {data-background="img/The_Present.JPG" data-background-size="contain" data-background-repeat="no-repeat"}
+# <span style="background-color:rgba(0,0,0,0.5)"> The Present (2016-Today) </span>  {data-background="img/The_Present.JPG" data-background-size="contain" data-background-repeat="no-repeat"}
 
 ## Natural Language Processing
 
-- Use of probabilistic model like **Topic Model** and **GloVE** in order to:  
+- Use of probabilistic model like **Topic Model**, **Word Embeddings** and **Transformers** in order to:  
 
     + Select most informative documents in a corpus  
     + Detect relevant differencies between documents
@@ -302,6 +308,14 @@ For details $->$ arXiv:1101.2851 [q-bio.QM]
 
 </small>
 
+## <span style="background-color:rgba(0,0,0,0.5)">Semanticase </span> {data-background-image="img/Semanticase.png" data-background-size="contain"}
+
+- <span style="background-color:rgba(0,0,0,0.5)">All the experiences in NLP was embedded and developed in  [semanticase.it](https://semanticase.it)</span>
+
+## <span style="background-color:rgba(0,0,0,0.5)"> </span> {data-background-image="img/Enel_Panorama.png" data-background-size="contain"}
+
+<span style="background-color:rgba(0,0,0,0.5)"> One of the most succefull application of Semamticase is on customer care</span>
+
 ## CircSpaceTime: An R Package for Spatial and Spatio-Temporal Models for Circular Data{data-background-image="img/wave07.gif"}
 <small>  
 
@@ -312,7 +326,9 @@ For details $->$ arXiv:1101.2851 [q-bio.QM]
 - Spatial Projected Normal: given $\mathbf{Y} = (Y_1, Y_2)$ a bivariate vector, $\mathbf{U} =\frac{\mathbf{Y}}{||\mathbf{Y}||}$ is a point over the unit circle then $\Theta$ $->$ $U_1=cos(\Theta)$, $U_2=sin(\Theta)$. Then $\mathbf{Y}=(Y_1,Y_2)=R(cos\theta , sin\theta)=R\mathbf{U}$ where $R=||\mathbf{Y}||$
 and $f_\Theta(\theta)=\int_{R^+} rf_\mathbf{Y}((rcos\theta , rsin\theta)')dr$  
 
-- The work as be accepted and will be published on JSS Special Issue on Bayesian Statistics in the second half of 2019. For now http://santoroma.github.io/CircSpaceTime/
+- The work as be accepted on CRAN and published on Journal of Statistical Computation and Simulation 90 (7), 1315-1345
+
+- http://santoroma.github.io/CircSpaceTime/
  
 
 </small>
@@ -344,6 +360,9 @@ and $f_\Theta(\theta)=\int_{R^+} rf_\mathbf{Y}((rcos\theta , rsin\theta)')dr$
 
 </small>  
 
+## <span style="background-color:rgba(0,0,0,0.5)">Gemelli Generator </span> {data-background-image="img/Start_Project.gif"}
+<br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
 # ... this is the END or (I hope) the beginning {data-background="img/the_end.gif"}
 
 ## THANKS!!! {data-background="img/truman_show_end.gif"}
